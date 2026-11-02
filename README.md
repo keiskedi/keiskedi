@@ -11,56 +11,14 @@
 
 <h3>୨୧<i>A little collection of technologies and tools I explore and use in my projects.</i></h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" height="32" />
-  &nbsp; Java · Python
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite,html,css,js,spring,git,github,idea,vscode,windows,linux" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="32" />
-  &nbsp; SQL · MySQL · SQLite
+  <b>Other tools & technologies</b>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="32" />
-  &nbsp; HTML · CSS · JavaScript
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" height="32" />
-  &nbsp; Spring Boot
-</p>
-
-
-<p>
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="32" alt="Espressif" />
-  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" height="32" alt="Microchip" />
-  &nbsp; ESP32 · ATmega8
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/labview/FFFFFF" height="32" alt="Proteus alternative" />
-  <img src="https://cdn.simpleicons.org/wokwi/FFFFFF" height="32" alt="Wokwi" />
-  &nbsp; Proteus · Wokwi
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/nodered/FFFFFF" height="32" alt="Node-RED" />
-  <img src="https://cdn.simpleicons.org/mqtt/FFFFFF" height="32" alt="MQTT" />
-  &nbsp; Node-RED · MQTT
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" height="32" />
-  &nbsp; Git · GitHub
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,netbeans" height="32" />
-  &nbsp; IntelliJ IDEA · VS Code · NetBeans
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="32" />
-  &nbsp; Windows · Linux
+  ESP32 · ATmega8 · Proteus · Wokwi · Node-RED · MQTT · NetBeans
 </p>
 </div>
