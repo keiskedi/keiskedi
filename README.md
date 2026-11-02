@@ -30,14 +30,15 @@
   &nbsp; Spring Boot
 </p>
 
+
 <p>
-  <img src="https://cdn.simpleicons.org/espressif/FFFFFF" height="32" alt="ESP32" />
-  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" height="32" alt="ATmega8" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="32" alt="Espressif" />
+  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" height="32" alt="Microchip" />
   &nbsp; ESP32 · ATmega8
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/labview/FFFFFF" height="32" alt="Proteus" />
+  <img src="https://cdn.simpleicons.org/labview/FFFFFF" height="32" alt="Proteus alternative" />
   <img src="https://cdn.simpleicons.org/wokwi/FFFFFF" height="32" alt="Wokwi" />
   &nbsp; Proteus · Wokwi
 </p>
