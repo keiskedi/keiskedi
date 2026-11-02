@@ -16,7 +16,7 @@
     <td width="55%" valign="top" style="border: none;">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" height="32" />
+  <img src="https://skillicons.dev/icons?i=java,python" height="32" align="middle" />
   &nbsp; Java · Python
 </p>
 
