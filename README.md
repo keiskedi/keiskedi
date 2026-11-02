@@ -9,18 +9,15 @@
   I'm interested in software development and enjoy turning ideas into practical applications. I also explore databases, embedded systems and IoT, combining software with hardware through hands-on projects.
 </p>
 
-<h2>୨୧ things I work with ♡</h2>
-
-<p><i>A little collection of technologies and tools I explore and use in my projects.</i></p>
-
+<h3>୨୧<i>A little collection of technologies and tools I explore and use in my projects.</i></h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,python" height="32" />
   &nbsp; Java · Python
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" />
-  &nbsp; SQL · MySQL
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="32" />
+  &nbsp; SQL · MySQL · SQLite
 </p>
 
 <p>
@@ -29,8 +26,23 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" height="32" />
-  &nbsp; ESP32 · ATmega8
+  <img src="https://skillicons.dev/icons?i=spring" height="32" />
+  &nbsp; Spring Boot
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-Microcontrollers-DDA0B8?style=flat-square" />
+  <img src="https://img.shields.io/badge/ATmega8-Microcontrollers-DDA0B8?style=flat-square" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Proteus-Simulation-DDA0B8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wokwi-IoT%20Simulation-DDA0B8?style=flat-square" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node--RED-Tools-DDA0B8?style=flat-square" />
+  <img src="https://img.shields.io/badge/MQTT-Messaging-DDA0B8?style=flat-square" />
 </p>
 
 <p>
@@ -39,19 +51,12 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode" height="32" />
-  &nbsp; IntelliJ IDEA · VS Code
+  <img src="https://skillicons.dev/icons?i=idea,vscode,netbeans" height="32" />
+  &nbsp; IntelliJ IDEA · VS Code · NetBeans
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux" height="32" />
   &nbsp; Windows · Linux
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Proteus-Electronics%20Simulation-DDA0B8?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Wokwi-IoT%20Simulation-DDA0B8?style=flat-square" />
-</p>
-
 </div>
