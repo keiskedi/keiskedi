@@ -72,6 +72,7 @@
 <td width="45%" valign="top" style="border: none;">
 
 <p align="center">
+  <br><br><br><br><br>
   <a href="https://github.com/keiskedi">
     <img
       src="https://github-stats-extended.vercel.app/api?username=keiskedi&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark&title_color=E8A6C5&icon_color=E8A6C5&text_color=F4DCE8&bg_color=0D1117&hide_border=true"
