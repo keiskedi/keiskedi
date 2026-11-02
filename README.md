@@ -31,18 +31,21 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-Microcontrollers-DDA0B8?style=flat-square" />
-  <img src="https://img.shields.io/badge/ATmega8-Microcontrollers-DDA0B8?style=flat-square" />
+  <img src="https://cdn.simpleicons.org/espressif/FFFFFF" height="32" alt="ESP32" />
+  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" height="32" alt="ATmega8" />
+  &nbsp; ESP32 · ATmega8
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Proteus-Simulation-DDA0B8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wokwi-IoT%20Simulation-DDA0B8?style=flat-square" />
+  <img src="https://cdn.simpleicons.org/labview/FFFFFF" height="32" alt="Proteus" />
+  <img src="https://cdn.simpleicons.org/wokwi/FFFFFF" height="32" alt="Wokwi" />
+  &nbsp; Proteus · Wokwi
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Node--RED-Tools-DDA0B8?style=flat-square" />
-  <img src="https://img.shields.io/badge/MQTT-Messaging-DDA0B8?style=flat-square" />
+  <img src="https://cdn.simpleicons.org/nodered/FFFFFF" height="32" alt="Node-RED" />
+  <img src="https://cdn.simpleicons.org/mqtt/FFFFFF" height="32" alt="MQTT" />
+  &nbsp; Node-RED · MQTT
 </p>
 
 <p>
