@@ -1,7 +1,6 @@
 <div align="center">
 <img src="assets/HelloKitty.png" width="100%" alt="Hi"/>
 
-<div align="center">
 <h1>
   <span style="color: #E8A6C5;">♡ Hi, I'm Diana! </span>
 </h1>
