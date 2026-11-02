@@ -71,7 +71,9 @@
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keiskedi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=FFFFFF&icon_color=E8A6C5" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keiskedi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=F4DCE8&icon_color=E8A6C5&border_color=E8A6C5&ring_color=E8A6C5" width="100%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiskedi&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=F4DCE8&border_color=E8A6C5" width="100%" alt="Most Used Languages"/>
 
 </td>
 </tr>
