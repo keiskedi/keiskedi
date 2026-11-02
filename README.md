@@ -9,15 +9,15 @@
   I'm interested in software development and enjoy turning ideas into practical applications. I also explore databases, embedded systems and IoT, combining software with hardware through hands-on projects.
 </p>
 
-<h3>୨୧<i>A little collection of technologies and tools I explore and use in my projects.</i></h3>
+<h3>୨୧ <i>A little collection of technologies and tools I explore and use in my projects.</i></h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,python" height="32" />
   &nbsp; Java · Python
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="32" />
-  &nbsp; SQL · MySQL · SQLite
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" />
+  &nbsp; SQL · MySQL
 </p>
 
 <p>
