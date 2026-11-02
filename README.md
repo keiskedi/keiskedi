@@ -71,9 +71,23 @@
 </td>
 <td width="45%" valign="top" style="border: none;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keiskedi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=F4DCE8&icon_color=E8A6C5&border_color=E8A6C5&ring_color=E8A6C5" width="100%" alt="GitHub Stats"/>
+<p align="center">
+  <a href="https://github.com/keiskedi">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=keiskedi&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark&title_color=E8A6C5&icon_color=E8A6C5&text_color=F4DCE8&bg_color=0D1117&hide_border=true"
+      width="100%"
+      alt="Diana's GitHub Stats"
+    />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiskedi&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=F4DCE8&border_color=E8A6C5" width="100%" alt="Most Used Languages"/>
+  <a href="https://github.com/keiskedi">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=keiskedi&layout=compact&langs_count=6&theme=github_dark&title_color=E8A6C5&text_color=F4DCE8&bg_color=0D1117&hide_border=true"
+      width="100%"
+      alt="Most Used Languages"
+    />
+  </a>
+</p>
 
 </td>
 </tr>
