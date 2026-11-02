@@ -32,7 +32,6 @@
 
 <p>
   <img src="https://cdn.simpleicons.org/espressif/E7352C" height="32" />
-  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" height="32" />
   &nbsp; ESP32 · ATmega8
 </p>
 
