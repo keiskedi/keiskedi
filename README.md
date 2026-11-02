@@ -16,55 +16,55 @@
     <td width="55%" valign="top" style="border: none;">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" height="32"/>
+  <img src="https://skillicons.dev/icons?i=java,python" height="40"/>
    <span style="vertical-align: middle;">Java · Python</span>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   &nbsp; SQL · MySQL
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
   &nbsp; HTML · CSS · JavaScript
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" height="32" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
   &nbsp; Spring Boot
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="32" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="40" />
   &nbsp; ESP32 · ATmega8
 </p>
 
 <p>
-  <img src="assets/proteus.png" height="32" alt="Proteus" />
-  <img src="assets/wokwi.png" height="32" alt="Wokwi" />
+  <img src="assets/proteus.png" height="40" alt="Proteus" />
+  <img src="assets/wokwi.png" height="40" alt="Wokwi" />
   &nbsp; Proteus · Wokwi
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/nodered/FFFFFF" height="32" />
-  <img src="https://cdn.simpleicons.org/mqtt/FFFFFF" height="32" />
+  <img src="https://cdn.simpleicons.org/nodered/FFFFFF" height="40" />
+  <img src="https://cdn.simpleicons.org/mqtt/FFFFFF" height="40" />
   &nbsp; Node-RED · MQTT
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="40" />
   &nbsp; Git · GitHub
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode" height="32" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode" height="40" />
   <img src="https://netbeans.apache.org/_/images/nblogo32x32.png" height="32" alt="NetBeans" />
   &nbsp; IntelliJ IDEA · VS Code · NetBeans
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="32" />
+  <img src="https://skillicons.dev/icons?i=windows,linux" height="40" />
   &nbsp; Windows · Linux
 </p>
 
