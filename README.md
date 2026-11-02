@@ -12,9 +12,9 @@
 <h3>୨୧ <i>A little collection of technologies and tools I explore and use in my projects.</i></h3>
 
 <table>
-<tr>
-<td width="55%" valign="top">
-  
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python" height="32" />
   &nbsp; Java · Python
@@ -69,7 +69,7 @@
 </p>
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" style="border: none;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=keiskedi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E8A6C5&text_color=F4DCE8&icon_color=E8A6C5&border_color=E8A6C5&ring_color=E8A6C5" width="100%" alt="GitHub Stats"/>
 
